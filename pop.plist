@@ -17,7 +17,7 @@
             <key>metadata</key>
             <dict>
                 <key>BundleIdentifier</key>
-                <string>com.yourcompany.app</string>
+                <string>com.example.pop</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>

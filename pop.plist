@@ -16,7 +16,7 @@
             </array>
             <key>metadata</key>
             <dict>
-                <key>CFBundleIdentifier</key>
+                <key>BundleIdentifier</key>
                 <string>com.yourcompany.app</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
